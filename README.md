@@ -59,6 +59,6 @@ This project utilizes Three.js to create a 3D representation of Earth with real-
 ----
 # Credits # 
 Earth texture image from NASA.
-
+----
 # License #
 This project is licensed under the MIT License - see the LICENSE file for details.
