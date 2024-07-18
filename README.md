@@ -2,7 +2,7 @@
 
 This project utilizes Three.js to create a 3D representation of Earth with real-time tracking of the International Space Station (ISS). The ISS position is fetched from the [Where the ISS at?](https://wheretheiss.at/) API and displayed on the globe in real-time.
 
-![Demo](demo.gif)
+![Demo](iss.gif)
 
 ## Table of Contents
 
